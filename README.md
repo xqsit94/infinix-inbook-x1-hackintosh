@@ -6,6 +6,10 @@
 </div>
 <br>
 
+## Maintenance
+This repo is not maintaned anymore, use the following alternative.
+- https://github.com/devboloji/Infinix-Hackintosh-Opencore-Guide
+
 ## Configurations
 | Specifications      | Detail                                      |
 |---------------------|---------------------------------------------|
